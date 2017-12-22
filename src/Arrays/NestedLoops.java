@@ -41,6 +41,7 @@ public class NestedLoops {
 
         int[][] scores = new int[4][]; // WHY ?!
 
+
         int x = 10;
         while (x > 0) {
             do {
