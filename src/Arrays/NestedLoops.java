@@ -39,6 +39,8 @@ public class NestedLoops {
         System.out.println();
         System.out.println();
 
+        int[][] scores = new int[4][]; // WHY ?!
+
         int x = 10;
         while (x > 0) {
             do {
